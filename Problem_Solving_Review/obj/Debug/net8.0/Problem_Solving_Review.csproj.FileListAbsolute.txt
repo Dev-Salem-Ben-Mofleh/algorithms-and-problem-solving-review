@@ -1,0 +1,14 @@
+F:\Problem Solving\Problem_Solving_Review\bin\Debug\net8.0\Problem_Solving_Review.exe
+F:\Problem Solving\Problem_Solving_Review\bin\Debug\net8.0\Problem_Solving_Review.deps.json
+F:\Problem Solving\Problem_Solving_Review\bin\Debug\net8.0\Problem_Solving_Review.runtimeconfig.json
+F:\Problem Solving\Problem_Solving_Review\bin\Debug\net8.0\Problem_Solving_Review.dll
+F:\Problem Solving\Problem_Solving_Review\bin\Debug\net8.0\Problem_Solving_Review.pdb
+F:\Problem Solving\Problem_Solving_Review\obj\Debug\net8.0\Problem_Solving_Review.GeneratedMSBuildEditorConfig.editorconfig
+F:\Problem Solving\Problem_Solving_Review\obj\Debug\net8.0\Problem_Solving_Review.AssemblyInfoInputs.cache
+F:\Problem Solving\Problem_Solving_Review\obj\Debug\net8.0\Problem_Solving_Review.AssemblyInfo.cs
+F:\Problem Solving\Problem_Solving_Review\obj\Debug\net8.0\Problem_Solving_Review.csproj.CoreCompileInputs.cache
+F:\Problem Solving\Problem_Solving_Review\obj\Debug\net8.0\Problem_Solving_Review.dll
+F:\Problem Solving\Problem_Solving_Review\obj\Debug\net8.0\refint\Problem_Solving_Review.dll
+F:\Problem Solving\Problem_Solving_Review\obj\Debug\net8.0\Problem_Solving_Review.pdb
+F:\Problem Solving\Problem_Solving_Review\obj\Debug\net8.0\Problem_Solving_Review.genruntimeconfig.cache
+F:\Problem Solving\Problem_Solving_Review\obj\Debug\net8.0\ref\Problem_Solving_Review.dll
